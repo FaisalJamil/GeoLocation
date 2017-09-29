@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WithIn</string>
+    <string name="within_destination">You are within 1 km of your destination</string>
+    <string name="reaching">Reaching Destination</string>
+    <string name="destination">Destination</string>
+    <string name="start">Start</string>
+    <string name="info">Start again once reached within 1km of the Destination Point</string>
+</resources>
